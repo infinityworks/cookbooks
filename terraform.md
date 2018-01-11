@@ -5,9 +5,9 @@ This repository gives coding conventions for Terraform's HashiCorp Configuration
 ## Table of Contents
 
 * [Editor](#editor)
-* [Syntax](#Syntax)
-* [Naming](#Naming)
-* [Environments](#Environments)
+* [Syntax](#syntax)
+* [Naming](#naming)
+* [Environments](#environments)
 
 ## Editor
 
